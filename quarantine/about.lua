@@ -7,7 +7,6 @@ Original source line ranges: 2915-2984
 
 
 -- BEGIN ORIGINAL SOURCE LINES 2915-2984
-Lebaya chactь bkлaдki About: Coders
 local AboutLeftGroup = Tabs.About:AddLeftGroupbox("Coders")
 AboutLeftGroup:AddLabel("cw.yw")
 AboutLeftGroup:AddLabel("7wk5")
